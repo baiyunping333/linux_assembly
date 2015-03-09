@@ -1,5 +1,10 @@
-all:
-	gcc cpuid.s
+all: cpuid cpuid_00
+
+cpuid:
+	gcc cpuid.s -o cpuid
+cpuid_00:
+	gcc cpuid_00.s -o cpuid_00
+
 clean:
-	rm a.out
+	rm cpuid cpuid_00
 
