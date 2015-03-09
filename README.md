@@ -1,7 +1,7 @@
 linux assembly
 ==============
 
-linux assembly tutorial on Ubuntu
+linux assembly exercise on Ubuntu
 
 Reference
 ---------
