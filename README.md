@@ -16,8 +16,8 @@ Reference
 
 Somewords
 ---------
-.data  : for constants, read-only
-.bss   : for variables, read-write
-.text  : for code     , read-only
+>.data  : for constants, read-only
+>.bss   : for variables, read-write
+>.text  : for code     , read-only
 
 
